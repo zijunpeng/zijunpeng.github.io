@@ -8,6 +8,11 @@ keyword: "机器学习基础, 深度学习炼丹, 科研记录, 服务器操作"
 url: "https://zijunpeng.github.io/" # your host, for absolute URL
 baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
 
+# Sidebar settings
+sidebar: true                           
+sidebar-about-description: "财富是对认知的补偿，而不是对勤奋的奖赏！"
+sidebar-avatar:/img/avatar-by.JPG      
+
 # Publish posts or collection documents with a future date.
 future: true
 
